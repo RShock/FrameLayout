@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">FrameLayout</string>
     <string name="title">Android Practice</string>
-    <string name="button1">button 1</string>
+    <string name="button1">constraint_layout</string>
     <string name="button2">button 2</string>
     <string name="button3">button 3</string>
     <string name="button4">button 4</string>
@@ -11,4 +11,7 @@
     <string name="button8">button 8</string>
     <string name="button9">button 9</string>
     <string name="button10">button 10</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="hello">Hello!</string>
 </resources>
